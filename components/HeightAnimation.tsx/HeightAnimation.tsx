@@ -1,6 +1,7 @@
 import { motion,AnimatePresence } from "framer-motion";
 import { useState, useRef, useEffect } from "react";
 import useMeasure from 'react-use-measure'
+import "./styles.css"
 
 export default function Example() {
   const [showExtraContent, setShowExtraContent] = useState(false);
