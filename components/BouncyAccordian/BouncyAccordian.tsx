@@ -31,6 +31,7 @@ export default function BouncyAccordian(){
             }
             </div>
             
+            
         </motion.div>
         </AnimatePresence>
     )
